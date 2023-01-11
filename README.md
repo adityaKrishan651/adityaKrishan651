@@ -52,8 +52,8 @@ Alternatively
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=GuessTheNumber&theme=tokyonight&show_owner" />
 </a><br><br>
 
-<a href="https://github.com/adityaKrishan651/roundest-mon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=roundest-mon&theme=tokyonight&show_owner" />
+<a href="https://github.com/adityaKrishan651/lireddit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=lireddit&theme=tokyonight&show_owner" />
 </a>
 <a href="https://github.com/adityaKrishan651/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=TicTacToe&theme=tokyonight" />
