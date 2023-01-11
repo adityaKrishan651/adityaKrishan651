@@ -1,4 +1,4 @@
-### Hi my name is Aditya Krishan and I am a self taught programmer from the city of Chandigarh, India. 
+Hi my name is Aditya Krishan and I am a self taught programmer from the city of Chandigarh, India. 
 My projects might not be up-to-date as I took a break from programming to focus on my studies. All further projects I do will be done using latest technologies and frameworks.
 
 <br/>
