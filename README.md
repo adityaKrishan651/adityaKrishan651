@@ -46,14 +46,14 @@ Alternatively
 </a><br><br>
 
 <a href="https://github.com/adityaKrishan651/AttendanceProj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=AttendanceProj&theme=tokyonight&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=AttendanceProj&theme=tokyonight" />
 </a>
 <a href="https://github.com/adityaKrishan651/GuessTheNumber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=GuessTheNumber&theme=tokyonight&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=GuessTheNumber&theme=tokyonight" />
 </a><br><br>
 
-<a href="https://github.com/adityaKrishan651/lireddit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=lireddit&theme=tokyonight&show_owner" />
+<a href="https://github.com/adityaKrishan651/CourseGoals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=CourseGoals&theme=tokyonight" />
 </a>
 <a href="https://github.com/adityaKrishan651/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaKrishan651&repo=TicTacToe&theme=tokyonight" />
