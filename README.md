@@ -1,5 +1,4 @@
 Hi my name is Aditya Krishan and I am a self taught programmer from the city of Chandigarh, India. 
-My projects might not be up-to-date as I took a break from programming to focus on my studies. All further projects I do will be done using latest technologies and frameworks.
 
 <br/>
 <h2> 👋 Hi, I’m Aditya Krishan</h2>
@@ -7,8 +6,8 @@ My projects might not be up-to-date as I took a break from programming to focus 
 Hi, I’m Aditya Krishan, a self-taught programmer from Chandigarh, India. I am currently focused on full-stack web development, with a passion for cybersecurity and networking. I love to challenge myself by learning new technologies and programming languages and introduce flexibility in my skillset. I am a diligent worker with a penchant for delivering quality work which is visible in everything I do. <br>
 I would love to collaborate on projects from which I can learn something new and gain more experience. I'm always looking to learning new things and making friends along the way. I started gaining knowledge from a young age, which makes me even more open to channelising my thoughts and ideas, into more structured forms. <br>
 
-- 🧠 I’m currently learning: Django
-- 🤝 I’m looking to collaborate on: MERN Stack Projects
+- 🧠 I’m currently learning: SvelteKit
+- 🤝 I’m looking to collaborate on: Full Stack Projects
 - 💪 I would love to talk about: GoLang, React, Nodejs, ExpressJS or MongoDB, Networking, System Structures, Ethical Hacking. I'm enthusiastic about these topics!
 
 ### Learned from
