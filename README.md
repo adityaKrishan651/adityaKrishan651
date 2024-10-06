@@ -67,7 +67,7 @@ Alternatively
 </a>
 
 <a href="https://www.instagram.com/adxtyakrishan/">
-  <img src="https://img.shields.io/badge/@hehe.adxtya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/@adxtyakrishan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <!-- <a href="https://www.youtube.com/channel/UCzhukYx1lfRYIQJgxQI4aPQ">
