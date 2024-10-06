@@ -66,7 +66,7 @@ Alternatively
   <img src="https://img.shields.io/badge/@AdityaKrishan9-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/hehe.adxtya/">
+<a href="https://www.instagram.com/adxtyakrishan/">
   <img src="https://img.shields.io/badge/@hehe.adxtya-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
